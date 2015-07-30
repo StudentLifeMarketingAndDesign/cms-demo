@@ -5,7 +5,7 @@ $project = 'mysite';
 
 global $database;
 //!!! YOU HAVE TO DEFINE YOUR DATABASE FIRST, MAN. !!!
-$database = 'cms-demo';
+$database = 'cms_demo';
  
 // Use _ss_environment.php file for configuration
 require_once("conf/ConfigureFromEnv.php");
